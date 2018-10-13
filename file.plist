@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://www.hgr360.com/statics/downloader/BackHome.ipa</string>
+                        <string>http://downloader.hgr360.com/BackHome.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -33,7 +33,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>bundleID</string>
+                    <string>com.YuHuiPai.HuiGuoRou</string>
                     <key>bundle-version</key>
                     <string>1.0.0</string>
                     <key>kind</key>
