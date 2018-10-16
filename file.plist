@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://www.hgr360.com/statics/downloader/BackHome.ipa</string>
+                        <string>http://dl.hgr360.com/BackHome.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
