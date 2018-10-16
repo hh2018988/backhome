@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>57*57app图标链接</string>
+                        <string>http://dl.hgr360.com/Logo.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>521*521app图标链接</string>
+                        <string>http://dl.hgr360.com/Logo.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
